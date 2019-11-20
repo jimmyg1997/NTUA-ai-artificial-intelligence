@@ -22,5 +22,5 @@ The project was implemented into two (2) parts:
 
 ## 👱Project Collaborators
 The project was implemented by:
-* Georgiou Dimitrios (jimmyg1997)
-* Sarmas Elissaios
+* **Georgiou Dimitrios (jimmyg1997)**
+* **Sarmas Elissaios**
