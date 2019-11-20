@@ -12,9 +12,9 @@ The project was implemented into two (2) parts:
 ## 📋Contents
 * **project-description** : Description of the project in Greek language
 * **clients.csv** : The file contains the coordinates of the *location* of the client:
-  $$(X,Y) = 23.733912, 37.975687 $$
+$$(X,Y) = 23.733912, 37.975687 $$
 * **taxis.csv** : The file contains the coordinates of the *location*, the *ids* of all taxis:
-  $$(X,Y, id) = 23.741587, 37.984125, 100 $$
+$$(X,Y, id) = 23.741587, 37.984125, 100 $$
 * **nodes.csv** : The file contains the *coordinates* of some parts of the streets of the Athens city. Each street is characterized by an *id*, so parts with the same *id* belong to the same street.
 * **client2.csv, taxis2.csv** : Randomly generated coordinates for the client and the taxis to test the validity of our implemented algorithm.
 * **best-route1.kml, best-route2.kml, best-route-advanced.kml**: The best routes for each taxi in kml form. The files were therefore uploaded into *MyMaps* to visualize the routes.
