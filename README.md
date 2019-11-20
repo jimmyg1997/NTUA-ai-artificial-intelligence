@@ -1,2 +1,1 @@
-# ntua-ai-artificial-intelligence-
-🤖 Artificial Intelligence Assignments for ECE NTUA
+# 🤖Artificial Intelligence : Smart Taxi Navigation System using A* Algorithm.
