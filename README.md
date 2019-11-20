@@ -11,9 +11,10 @@ The project was implemented into two (2) parts:
   
 ## 📋Contents
 * **project-description** : Description of the project in Greek language
-* **clients.csv** : The file contains the coordinates of the *location* of the client: \
+* **clients.csv** : The file contains the coordinates of the *location* of the client:
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%28X%2C%20Y%29%20%3D%2023.733912%2C%2037.975687&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+<p style="text-align: center;">Centered text</p>
 
 * **taxis.csv** : The file contains the coordinates of the *location*, the *ids* of all taxis:
 
