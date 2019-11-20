@@ -12,10 +12,13 @@ The project was implemented into two (2) parts:
 ## 📋Contents
 * **project-description** : Description of the project in Greek language
 * **clients.csv** : The file contains the coordinates of the *location* of the client: \
-
-![equation](http://www.sciweavers.org/tex2img.php?eq=%28X%2CY%29%20%3D%2023.733912%2C%2037.975687%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+<p align = "center" >
+![equation](http://www.sciweavers.org/tex2img.php?eq=%28X%2C%20Y%29%20%3D%2023.733912%2C%2037.975687&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+</p>
 * **taxis.csv** : The file contains the coordinates of the *location*, the *ids* of all taxis:
+<p align = "center" >
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%28X%2CY%2C%20id%29%20%3D%2023.741587%2C%2037.984125%2C%20100&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+</p>
 * **nodes.csv** : The file contains the *coordinates* of some parts of the streets of the Athens city. Each street is characterized by an *id*, so parts with the same *id* belong to the same street.
 * **client2.csv, taxis2.csv** : Randomly generated coordinates for the client and the taxis to test the validity of our implemented algorithm.
 * **best-route1.kml, best-route2.kml, best-route-advanced.kml**: The best routes for each taxi in kml form. The files were therefore uploaded into *MyMaps* to visualize the routes.
